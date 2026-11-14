@@ -8,5 +8,3 @@ else:
     balance - withdraw
     print("you have successfully withdrawn:" , withdraw,  "your new balance is: ", balance - withdraw)
     
-    remain = balance - withdraw
-    
