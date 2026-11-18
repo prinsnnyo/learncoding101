@@ -7,5 +7,5 @@ count = 0
 for letter in vowels:
     if letter in user_input:
         count += 1  
-print ("The number of vowels", count)
+print ("The number of vowels: ", count)
     
